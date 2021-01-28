@@ -3,5 +3,5 @@
 ## Usage
 
 ```bash
-docker run -it krewh/mytop -d mysql --prompt
+docker run --rm -it krewh/mytop -d mysql --prompt
 ```
