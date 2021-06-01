@@ -1,4 +1,4 @@
-FROM alpine:3
+FROM alpine:3.13
 RUN apk add --update \
     mariadb \
     mariadb-mytop \
