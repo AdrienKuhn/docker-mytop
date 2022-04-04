@@ -1,5 +1,7 @@
 # docker-mytop
 
+[![CircleCI](https://circleci.com/gh/AdrienKuhn/docker-mytop/tree/main.svg?style=shield&circle-token=8aea41eb16288fd391fae1eefbcaf4e9684a5ca2)](https://circleci.com/gh/AdrienKuhn/docker-mytop/tree/main)
+
 ## Usage
 
 ### Docker images
